@@ -139,14 +139,3 @@ Each API should:
 - Utilities like `timeChecker.js` can check if a clinic is open based on working hours
 
 ---
-
-## ✅ Deliverables
-- API Design written in README.md
-- Code pushed to GitHub repo
-- Link sent with task ID and full name
-
-Example: `#Task4 – Moones Shahatha Mezher`
-
----
-
-Good luck and happy coding! 🐾
